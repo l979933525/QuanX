@@ -9,8 +9,8 @@
 
 let subscriptions = [
     {
-        link: "订阅地址1",
-        name: "取个名字1",
+        link: "https://ths1f9qf.xyz/link/6GAHUnRTJMTMpKdf?sub=3",
+        name: "PieCloud",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
     },
     {
